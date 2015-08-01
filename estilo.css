@@ -1,0 +1,50 @@
+body {
+	margin: 0 auto 0;
+	width: 700px;
+}
+
+h2, h3, h4{
+	text-align: center;
+	font-weight: bold;
+}
+
+h2 {
+	font-family: tahoma;
+	font-size: 25px;
+}
+
+h3 a {
+	color: orange;
+}
+
+h3 {
+	color: coral;
+	font-size: 25px;
+	font-family: tahoma;
+	display: none;
+}
+
+#circulo .progressbar-text {
+	font-size: 50px;
+	font-weight: bold;
+	font-family: tahoma;
+}
+
+#circulo {
+	width:60%;
+	margin-left: 130px;
+}
+
+ul {
+	margin-left: 85px;
+	margin-top: -40px;
+}
+
+ul li {
+	display: inline;
+	margin-left: 60px;
+}
+
+img:hover {
+	opacity: 0.9;
+}
